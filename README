@@ -1,4 +1,6 @@
 These are TextMate colorschemes converted to be used with Vim.
 
+...and placed in a 'colors' directory for Pathogen.
+
 TextMate themes downloaded from http://github.com/filmgirl/TextMate-Themes
 Coverted with http://github.com/sickill/coloration
