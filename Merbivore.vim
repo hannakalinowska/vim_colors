@@ -61,7 +61,7 @@ hi rubySymbol  guifg=#1edafb guibg=NONE gui=NONE
 hi rubyConstant  guifg=NONE guibg=NONE gui=NONE
 hi rubyStringDelimiter  guifg=#8dff0a guibg=NONE gui=NONE
 hi rubyBlockParameter  guifg=NONE guibg=NONE gui=NONE
-hi rubyInstanceVariable  guifg=NONE guibg=NONE gui=NONE
+hi rubyInstanceVariable  guifg=#FFCE0A guibg=NONE gui=NONE
 hi rubyInclude  guifg=#fc6f09 guibg=NONE gui=NONE
 hi rubyGlobalVariable  guifg=NONE guibg=NONE gui=NONE
 hi rubyRegexp  guifg=#8dff0a guibg=NONE gui=NONE
